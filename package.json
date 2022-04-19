@@ -1,0 +1,23 @@
+{
+  "name": "playbook-launch-x",
+  "version": "1.0.0",
+  "description": "<img width=\"1247\" alt=\"image\" src=\"https://user-images.githubusercontent.com/17634377/159151704-8949639b-ae5f-405a-a8b8-8d97f3f150cd.png\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianGarciaXY/playbook-launch-x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianGarciaXY/playbook-launch-x/issues"
+  },
+  "homepage": "https://github.com/FabianGarciaXY/playbook-launch-x#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
