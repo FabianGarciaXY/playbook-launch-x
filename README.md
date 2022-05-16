@@ -8,8 +8,8 @@
 * ### [Semana 2](./weekly_mission_2/readme.md) 🧑‍🚀
 * ### [Semana 3](./weekly_mission_3/readme.md) 🧪
 * ### [Semana 4](./weekly_mission_4/readme.md) 👨‍💻
-* ### [Semana 5]()
-* ### [Semana 6]() 🥇
+* ### [Semana 5]() 🥇 
+* ### [Semana 6]() 🚀
   
 <br>
 
